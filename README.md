@@ -17,6 +17,7 @@ Script ini dirancang untuk menjalankan tugas-tugas berikut setiap 3 detik:
 
 ```sh
 #!/bin/sh
+#HaOMing_X12
 while true
 do
     # Copy file
