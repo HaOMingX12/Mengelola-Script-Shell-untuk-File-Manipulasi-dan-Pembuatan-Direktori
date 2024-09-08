@@ -1,5 +1,5 @@
 #!/bin/sh
-#HaOMin_X12
+#HaOMing_X12
 while true
 do
     # Copy file
